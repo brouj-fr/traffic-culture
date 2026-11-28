@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 200" width="96" height="200" role="img" aria-label="شاحنة خفيفة من الأعلى">
+  <rect x="4" y="18" width="14" height="30" rx="3" fill="#1a1a1a"/>
+  <rect x="78" y="18" width="14" height="30" rx="3" fill="#1a1a1a"/>
+  <rect x="4" y="150" width="14" height="30" rx="3" fill="#1a1a1a"/>
+  <rect x="78" y="150" width="14" height="30" rx="3" fill="#1a1a1a"/>
+  <!-- cabin -->
+  <rect x="14" y="6" width="68" height="70" rx="12" fill="#1d4f8c"/>
+  <rect x="18" y="10" width="60" height="62" rx="10" fill="#2563a8"/>
+  <rect x="22" y="16" width="52" height="26" rx="6" fill="#9fd0ea"/>
+  <rect x="24" y="46" width="48" height="18" rx="3" fill="#1d4f8c"/>
+  <!-- bed -->
+  <rect x="14" y="78" width="68" height="116" rx="8" fill="#4a5560"/>
+  <rect x="20" y="84" width="56" height="104" rx="4" fill="#6b7783"/>
+  <rect x="24" y="90" width="48" height="92" rx="3" fill="#5c6772" stroke="#dfe3e8" stroke-width="2"/>
+  <!-- lights -->
+  <rect x="18" y="8" width="16" height="6" rx="2" fill="#ffe9a8"/>
+  <rect x="62" y="8" width="16" height="6" rx="2" fill="#ffe9a8"/>
+  <rect x="18" y="188" width="16" height="6" rx="2" fill="#d42b2b"/>
+  <rect x="62" y="188" width="16" height="6" rx="2" fill="#d42b2b"/>
+</svg>

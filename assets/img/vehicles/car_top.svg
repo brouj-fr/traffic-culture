@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90 160" width="90" height="160" role="img" aria-label="سيارة من الأعلى">
+  <!-- wheels -->
+  <rect x="4" y="28" width="12" height="28" rx="3" fill="#1a1a1a"/>
+  <rect x="74" y="28" width="12" height="28" rx="3" fill="#1a1a1a"/>
+  <rect x="4" y="104" width="12" height="28" rx="3" fill="#1a1a1a"/>
+  <rect x="74" y="104" width="12" height="28" rx="3" fill="#1a1a1a"/>
+  <!-- body -->
+  <rect x="12" y="8" width="66" height="144" rx="16" fill="#1b7a45"/>
+  <rect x="16" y="12" width="58" height="136" rx="14" fill="#228B4F"/>
+  <!-- hood highlight -->
+  <rect x="22" y="16" width="46" height="28" rx="8" fill="#2ea35c"/>
+  <!-- windshield -->
+  <rect x="22" y="46" width="46" height="28" rx="6" fill="#c5e4f4"/>
+  <rect x="24" y="48" width="42" height="22" rx="5" fill="#8ec8e6"/>
+  <!-- roof -->
+  <rect x="24" y="76" width="42" height="32" rx="4" fill="#1b7a45"/>
+  <!-- rear window -->
+  <rect x="22" y="110" width="46" height="18" rx="5" fill="#8ec8e6"/>
+  <!-- lights -->
+  <rect x="18" y="10" width="16" height="6" rx="2" fill="#ffe9a8"/>
+  <rect x="56" y="10" width="16" height="6" rx="2" fill="#ffe9a8"/>
+  <rect x="18" y="144" width="16" height="6" rx="2" fill="#d42b2b"/>
+  <rect x="56" y="144" width="16" height="6" rx="2" fill="#d42b2b"/>
+  <!-- center line on roof -->
+  <rect x="43" y="80" width="4" height="24" rx="1" fill="#166b3c"/>
+</svg>
